@@ -1,10 +1,8 @@
 ## Hi there, My name is James Kelly 👋 
 Welcome to my Github! 
 
-Here are a few facts about me:
-- I am a Data Scientist specialising on Machine Learning and NLP 🥶
-- I am currently studying to achieve a MSc in Artificial Intelligence in the University of Edinburgh🌱
-- I am a graduate in Data Science and Analytics from University College Cork 😌
+- I am studying a PhD in UcD in the Decarb AI Program funded by Research Ireland
+- I am graduate of MSc in Artificial Intelligence in the University of Edinburgh
 - 😄 Pronouns: He/Him
 
   Feel free to reach out for any queries:
